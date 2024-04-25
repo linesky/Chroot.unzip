@@ -36,6 +36,12 @@ cp  /usr/bin/sh $roots/usr/bin
 cp  /usr/bin/sh $roots/bin
 cp  /usr/bin/ldd $roots/usr/bin
 cp  /usr/bin/ldd $roots/bin
+cp  /usr/bin/ldd $roots/usr/bin
+cp  /usr/bin/ldd $roots/bin
+cp  /usr/bin/cp $roots/usr/bin
+cp  /usr/bin/cp $roots/bin
+cp  /usr/bin/move $roots/usr/bin
+cp  /usr/bin/move $roots/bin
 printf "" > $roots/dev/null
 printf "" > $roots/dev/stdio
 printf "" > $roots/dev/stdout
